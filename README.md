@@ -3,8 +3,8 @@
 A submission for  [HUAWEI - 2020 DIGIX GLOBAL AI CHALLENGE](https://developer.huawei.com/consumer/en/activity/devStarAI/algo/competition.html#/preliminary/info/digix-trail-03/introduction)
 
 **team** Melbourne dağları  
-**members:** [@mustafahakkoz](https://github.com/mustafahakkoz), [@Aysenuryilmazz](https://github.com/Aysenuryilmazz)  
-**rank:** 94/ 343  
+**members:** [@mustafahakkoz](https://github.com/mustafahakkoz), [@Aysenuryilmazz](https://github.com/Aysenuryilmazz)   
+**Turkey region rank:** 4 / 103  
 **score (AUC):** 0.679876  
 **dataset:** [advertising behavior data](https://developer.huawei.com/consumer/en/activity/devStarAI/algo/competition.html#/preliminary/info/digix-trail-03/data) Heavily unbalanced and very large / out of core dataset containing the advertising behavior data collected from seven consecutive days. 
 
